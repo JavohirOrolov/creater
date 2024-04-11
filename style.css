@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+span, a, label {
+    display: inline-block;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+.big{
+    background-color: black;
+
+
+
+}
+.car1{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px;
+    justify-content: space-between;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bold;
+    color: blue;
+    text-decoration:none ;
+    
+
+}
+.red{
+    justify-content: space-between;
+    margin-left: 25%;
+    text-decoration: none;
+
+}
+.ok{
+    text-decoration: none;
+}
+.car2{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 100px;
+}
+.title{
+    font-size: 50px;
+    font-weight: bolder;
+    color: crimson;
+
+}
+.car3{
+    
+    width: 65% ;
+    font-size: 80px;
+    color: blueviolet;
+    font-weight: lighter;
+    font-style: italic;
+}
+.logo{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pic{
+    width: 35%;
+}
+.link{
+    text-decoration: none;
+}
+.blue{
+    text-decoration: none;
+}
+.see{
+    text-decoration: none;
+    font-size: 24px;
+    padding: 7px 15px;
+    background-color: aqua;
+    margin-right: 13px;
+}
